@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Men's T-shirt",
+    "price": 799,
+    "category": "Men",
+    "status": "Ordered",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 2,
+    "name": "Women's Dress",
+    "price": 1299,
+    "category": "Women",
+    "status": "Delivered",
+    "image": "https://via.placeholder.com/150"
+  },
+
+{
+  "id": 3,
+  "name": "Men's Shoes",
+  "price": 1999,
+  "category": "Footwear",
+  "status": "Ordered",
+  "image": "https://via.placeholder.com/150"
+}
+]
